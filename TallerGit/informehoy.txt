@@ -8,3 +8,5 @@ hicimos push
 agregamos los cambios a la rama principal y a la que creamos y lo subimos a un rporsitorio que tenemos en github
 
 
+escribiendo ramas para ignorar  archivos para no ser comprometidos con el area de trabajo
+describa que cambiar de ramas  y volver a la principal 
