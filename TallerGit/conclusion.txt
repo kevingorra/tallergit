@@ -1,0 +1,6 @@
+aprendimos a usar el programa de git el cual nos facilita guardar nuestro codigo de forma remota y adicional podemos trabajar varios programadores en una de esas ramas que creamos  y asi le llevamos el historico de versiones al programa realizado  
+
+Que es un sistema control de versiones 
+
+nos permite llevar un seguimiento  cada que hacemos una actualizacion a nuestro programa y para poder guardar nuestros canbios realizados y poder devolvernos si llegado el caso se nos daña el codigo
+

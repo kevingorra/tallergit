@@ -1,0 +1,10 @@
+los temas que tratamos hoy fueron 
+
+creamos una rama el en repositorio
+cambiamos de rama y agregamos los archivos en cada una de las ramas 
+visualizamos los cambios que hicimos en los archivos 
+visualizamos cuantas ramas tenemos
+hicimos push 
+agregamos los cambios a la rama principal y a la que creamos y lo subimos a un rporsitorio que tenemos en github
+
+

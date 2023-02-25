@@ -1,0 +1,12 @@
+en la clase anterior vimos  los siguinetes comandos 
+
+configuramos git con nombre y correo 
+creamos carpeta con comando git
+configuramos el editor de git 
+creamos archivos  y los guardamos con un comando 
+aprendimos a eliminar un archivo 
+usamos el git ignore 
+cambiar el nombre del archivo  
+ver el historial
+vimos la version de git 
+aprndimos a restaurar los arhivos
